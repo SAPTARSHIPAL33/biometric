@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment files and credentials
+*.env
+.env
+serviceAccountKey.json
+*.pem
+
+# IDEs
+.vscode/
+.idea/
